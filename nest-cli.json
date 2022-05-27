@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "mtls": {
+      "type": "library",
+      "root": "libs/mtls",
+      "entryFile": "index",
+      "sourceRoot": "libs/mtls/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/mtls/tsconfig.lib.json"
+      }
+    }
+  },
+  "compilerOptions": {
+    "webpack": true
+  }
+}
